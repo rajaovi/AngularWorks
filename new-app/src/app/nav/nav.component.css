@@ -1,0 +1,15 @@
+
+ul {
+    display: flex;
+    margin: 1em 0;
+}
+ul li a {
+    color: #fff;
+    display: inline-block;
+    padding: 1em;
+    transition: all .3s;
+}
+ul li a:hover {
+    background: #fff;
+    color: #666;
+}
